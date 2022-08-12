@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Mariano 👋
+
+- 🔭 I’m currently working on Marssan
+- 🌱 I’m currently learning React Native & Next
+- 👯 I’m looking to collaborate on Social Projects
+- 💬 Ask me about Code & Hack Travels
+- 📫 How to reach me: Instagram
 
 <!--
 **marianozamora/marianozamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marianozamora)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marianozamora&show_icons=true&theme=radical" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianozamora&layout=compact&theme=radical" />
