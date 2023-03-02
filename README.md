@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React Native & Next
 - 👯 I’m looking to collaborate on Social Projects
 - 💬 Ask me about Code & Hack Travels
-- 📫 How to reach me: Instagram
+- 📫 How to reach me: Instagram.
 
 <!--
 **marianozamora/marianozamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
