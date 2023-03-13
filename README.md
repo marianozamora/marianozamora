@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marianozamora&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marianozamora&show_icons=true&theme=radical&count_private=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianozamora&layout=compact&theme=radical" />
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 **Stack**
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
