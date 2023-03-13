@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 -->
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marianozamora&show_icons=true&theme=radical&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianozamora&layout=compact&theme=radical" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianozamora&layout=compact&theme=radical&count_private=true" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-**Stack**
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
