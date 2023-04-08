@@ -46,9 +46,6 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Como crear cuenta transferwise desde latinoamerica y cualquier parte del mundo](https://marssan.com/como-crear-cuenta-transferwise-desde-latinoamerica-y-cualquier-parte-del-mundo/)
-- [Como crear una cuenta TD Ameritrade desde latinoamerica y cualquier parte del mundo](https://marssan.com/como-crear-una-cuenta-tdameritrade-desde-latinoamerica-y-cualquier-parte-del-mundo/)
-- [How to open bank account online for free with transferwise](https://marssan.com/how-to-open-bank-account-online-for-free-with-transfer-wise/)
-- [Increíbles versiones al violín de estos temazos actuales - Violincheli Brothers](https://marssan.com/increibles-versiones-al-violin-de-estos-temazos-actuales-semifinal-01-got-talent-espana-2021/)
-- [Bienvenidos a Marssan](https://marssan.com/presentacion/)
+- [2023 State of Databases for Serverless & Edge]([https://www.maaar.io/blog/backend)](https://www.maaar.io/blog/backend)
+
 <!-- BLOG-POST-LIST:END -->
